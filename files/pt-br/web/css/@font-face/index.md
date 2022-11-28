@@ -142,3 +142,4 @@ Neste exemplo, a cópia local do usuário "Helvetica Neue Bold" é usada; se o u
 - [When can I use WOFF?](http://caniuse.com/woff)
 - [When can I use SVG Fonts?](http://caniuse.com/svg-fonts)
 - [Free Fancy Cool Fonts](https://coolfont.org)
+- [Font Generator For Free](https://www.schriftgenerator.pro/)
